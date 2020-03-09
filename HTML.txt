@@ -1,0 +1,40 @@
+<!DOCTYPE html>   -  heading stating that html doc must be in top code
+<html lang="en">   - designates language type
+<head> -  header information
+<title>  - title of page 
+<meta charset="utf-8">     - states charset used
+<body>   - main page
+<main>  -  important content, includes content directly related to central topic of doc
+<h1> <h6>  - heading size 1 largest
+<img src=""> - image callout on page
+<a href="">  - takes to image offpage
+<p id="">  - names paragraph for callout
+<h2 id="heading">  - id name for callout
+<class>  - can be called for multiple callouts
+<nav>   -  sets navigation for top page <a href=""> callouts
+<blockquote>  - indented notes include cite="" for web credit
+<script>  -  allows for javascript to be called into html
+<font>  - includes color="" face="" size=""
+<alt=""> - designates mouse over text
+<style> -  p {color:;}   p {color: rgb(000, 00, 000)}  denotes color for html doc: for classes you denote class name by a . then title
+<div>  -  defines sections of html <div style="color: blue"> everything in that div would be blue
+<link> - designates a file to pull from  link rel="stylesheet" type="text/css" href="Basic_CSS_1.css" pulls from basiccss1
+<!-- >	- comments in html
+/* */ - comments in css
+<table>  - creates table  :  border: 1px solid silver   adds border around table    
+	<tr> - table row      tr, th { background-color: black; color: cornsilk;  }  effects top row   change to td for all following rows
+	<th> - table header
+	<td> - table data     td:hover { background-color:yellow;  color:black;  will change color of font when mouse over
+
+<ol> - ordered list is given a sequence
+	<li> - line item
+<ul> - underordered list no sequence usually bullet points
+	<li> - line item
+
+
+
+
+
+
+
+<footer>  - authorship, copyright, terms, social media
